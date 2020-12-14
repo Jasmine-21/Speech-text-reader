@@ -10,4 +10,4 @@ A text to speech app for non-verbal people. Pre-made buttons and custom text spe
 - Speaks the text typed in
 - Change voices and accents
 
-##LIVE(https://jasmine-21.github.io/Speech-text-reader/)
+##LIVE-https://jasmine-21.github.io/Speech-text-reader/
